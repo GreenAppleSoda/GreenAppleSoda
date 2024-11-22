@@ -2,7 +2,7 @@
 
 # 👨‍💻Introduction
 - Nickname : GreenAppleSoda
-- Major : ComputerEngineering  
+- Major : Computer Engineering  
 
 # 📃 Career
 -
